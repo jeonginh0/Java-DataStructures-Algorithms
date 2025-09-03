@@ -19,13 +19,10 @@
 - [x] 연결 리스트 (Linked List)
 - [X] 스택 (Stack)
 - [X] 큐 (Queue)
-- [ ] 해시 (Hash)
 - [ ] 트리 (Tree)
-- [ ] 힙 (Heap)
-- [ ] 그래프 (Graph)
 - [ ] 정렬 알고리즘 (Sorting)
-- [ ] 탐색 알고리즘 (Searching)
-- [ ] 기타 알고리즘 (Dynamic Programming, Greedy, etc.)
+- [ ] 해시 (Hash)
+- [ ] 그래프 및 기타 알고리즘 (Dynamic Programming, Greedy, etc.)
 
 ---
 
